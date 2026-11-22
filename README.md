@@ -1,74 +1,103 @@
-# 👋 Hey, I'm Rishabh Maurya
+<h1 align="center">👋 Hi, I'm Rishabh Maurya</h1>
 
-### AI & ML Student | Software Developer | Tech Enthusiast
+<p align="center">
+  <b>AI & ML Student · Full-Stack Web Developer · Aspiring Software Engineer</b><br/>
+  <i>Building practical web products and learning to make them smarter with AI.</i>
+</p>
 
-I’m a B.Tech student specializing in **Artificial Intelligence & Machine Learning** at **BIET Jhansi**, with a Diploma in Computer Science.
-
-I enjoy turning ideas into practical applications, building web products, and exploring AI-powered solutions.
-
----
-
-### 🚀 About Me
-
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning
-- 💻 Interested in Software Development and Full-Stack Web Development
-- 🌱 Currently improving my skills in Python, Django, JavaScript and React
-- 🧠 Exploring AI/ML and intelligent applications
-- 🛠️ Love building practical projects and experimenting with new technologies
-- 🎯 Working towards becoming a skilled software developer and entrepreneur
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabh-maurya-303&label=Profile%20Views&color=2D82F9&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-### 💻 Tech Stack
+## 🚀 About Me
 
-**Languages & Web Technologies**
+I'm a B.Tech student in **Artificial Intelligence & Machine Learning** at **BIET Jhansi**, with a **Diploma in Computer Science & Engineering**. I build full-stack web apps with **Python and Django**, and I'm now adding AI/ML to the mix.
 
-![My Skills](https://skillicons.dev/icons?i=python,js,html,css)
+- 🎓 B.Tech in AI & ML (2026–2029) · Diploma in CSE (2023–2026)
+- 💼 Full Stack Web Developer Trainee at **Softpro India**
+- 🌱 Currently learning: **React**, **machine learning fundamentals**, **Generative AI**
+- 🎯 Looking for a **software development internship** where I can contribute and grow
+- 📫 Open to collaborating on web and AI projects
 
-**Frameworks & Tools**
+---
 
-![My Tools](https://skillicons.dev/icons?i=django,bootstrap,tailwind,react,git,github,vscode)
+## 🛠️ Tech Stack
+
+**Languages & Web**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Styling**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 **Currently Exploring**
 
-![Learning](https://skillicons.dev/icons?i=docker,react)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-Check out my repositories for practical applications, experiments and development projects.
+| Project | Description | Tech |
+|---|---|---|
+| **[Smart Build Hub](https://github.com/rishabh-maurya-303)** | Web app for construction and building services. | Django, Python, Bootstrap |
+| **[NextGen Computer Hub](https://github.com/rishabh-maurya-303)** | Website for a computer and IT services business. | HTML, CSS, JavaScript |
+| **[Personal Portfolio](https://myportfolio-ckmh.onrender.com)** | My live portfolio site, deployed on Render. | HTML, CSS, JavaScript |
+
+> ✏️ *Replace each project link with its exact repo URL, and edit the one-line descriptions so they match what each project really does. Add a live demo link where you have one.*
 
 ---
 
-### 📊 GitHub Statistics
+## 🏅 Certifications
+
+- Python with Django (2025)
+- Generative AI (2026)
+- Job Ready: Employability Skills (2026)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-maurya-303&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-maurya-303&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-maurya-303&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-maurya-303&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishabh-maurya-303&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=rishabh-maurya-303&theme=tokyonight&hide_border=true" width="70%" alt="GitHub streak" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://myportfolio-ckmh.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2D82F9?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2D82F9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/rishabh-maurya-62040a359">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rishabh-maurya-303">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>"Building, learning, and turning ideas into reality."</i> 🚀
