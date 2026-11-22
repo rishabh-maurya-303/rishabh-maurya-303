@@ -56,11 +56,9 @@ I'm a B.Tech student in **Artificial Intelligence & Machine Learning** at **BIET
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Smart Build Hub](https://github.com/rishabh-maurya-303)** | Web app for construction and building services. | Django, Python, Bootstrap |
-| **[NextGen Computer Hub](https://github.com/rishabh-maurya-303)** | Website for a computer and IT services business. | HTML, CSS, JavaScript |
+| **[Smart Build Hub](https://smart-build-hub.up.railway.app/)** | Web app for construction and building services. | Django, Python, Bootstrap |
+| **[NextGen Computer Hub]([https://github.com/rishabh-maurya-303](https://rishabhmaurya.pythonanywhere.com/))** | Website for a computer and IT services business. | HTML, CSS, JavaScript |
 | **[Personal Portfolio](https://myportfolio-ckmh.onrender.com)** | My live portfolio site, deployed on Render. | HTML, CSS, JavaScript |
-
-> ✏️ *Replace each project link with its exact repo URL, and edit the one-line descriptions so they match what each project really does. Add a live demo link where you have one.*
 
 ---
 
